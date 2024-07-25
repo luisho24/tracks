@@ -5,3 +5,7 @@ track: 'blendos-base'
 aur-packages: 
   - 'gnome-shell-mobile'
 
+package-repos:
+  - name: 'multilib'
+    repo-url: 'https://geo.mirror.pkgbuild.com/$repo/os/$arch/'
+
