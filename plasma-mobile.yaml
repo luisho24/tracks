@@ -4,7 +4,3 @@ track: 'blendos-base'
 
 aur-packages: 
   - 'plasma-mobile'
-
-package-repos: 
-  - name: 'multilib'
-    repo-url: 'https://geo.mirror.pkgbuild.com/$repo/os/$arch/'
