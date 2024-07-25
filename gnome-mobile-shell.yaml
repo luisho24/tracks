@@ -1,0 +1,7 @@
+impl: 'https://github.com/blend-os/tracks/raw/main'
+
+track: 'blendos-base'
+
+aur-packages: 
+  - 'gnome-shell-mobile'
+
